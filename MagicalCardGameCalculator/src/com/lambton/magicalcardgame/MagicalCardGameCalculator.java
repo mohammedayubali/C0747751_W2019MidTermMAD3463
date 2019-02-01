@@ -27,7 +27,7 @@ public class MagicalCardGameCalculator {
                 {
                     System.out.print(Number[i][j]+"\t");
                 }
-                System.out.println();
+                System.out.println();;
             }
         }
     }
